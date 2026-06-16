@@ -1,3 +1,21 @@
+## Purpose
+
+Mitra acts as a first-response support layer for common customer questions.
+
+## Primary Flow
+
+```text
+User opens chatbot
+      |
+User asks FAQ-style support question
+      |
+Mitra identifies the relevant support topic
+      |
+Mitra returns a short answer or guided support path
+      |
+User resolves the issue
+
+
 In the flow builder, you have multiple sections:
 
 1.	Files (left): This is where you see an overview of your folders, chatbot flows, knowledge bases and tables.
