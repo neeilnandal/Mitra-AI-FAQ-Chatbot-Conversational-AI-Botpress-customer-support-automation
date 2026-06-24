@@ -4,6 +4,21 @@ Mitra is a website-embedded AI FAQ chatbot built for **Nfilade Security Solution
 
 The chatbot was implemented using **Botpress Cloud Webchat** and integrated into the company website with lightweight HTML and JavaScript. It gave customers a simple conversational interface for frequently asked questions, reducing repetitive manual support workload and helping resolve approximately **50% of Tier-1 support queries** without human intervention.
 
+## Project Snapshot
+
+| Area                  | Details                                                                                                                             |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Status**            | Complete                                                                                                                            |
+| **Problem**           | Reduce repetitive Tier-1 support workload while giving customers faster self-service access to common answers                       |
+| **Approach**          | Botpress-powered FAQ assistant embedded in a customer-facing website, with guided responses and escalation for unsupported queries  |
+| **Tech**              | Botpress Cloud, Botpress Webchat, HTML, JavaScript, browser session storage                                                         |
+| **Reproducibility**   | Setup, deployment, test scenarios, and web-embed artefacts are documented in `docs/`, `deployment/`, and `tests/`                   |
+| **Validation**        | Common Tier-1 query testing, fallback and escalation-path review, and deployment-focused frontend/security hygiene                  |
+| **Observed outcome**  | Approximately 50% of Tier-1 support queries were resolved through self-service in the documented deployment context                 |
+| **Key design choice** | Used a maintainable conversational platform instead of over-engineering a custom NLP stack for a narrow FAQ workflow                |
+| **Scope**             | Customer-support automation prototype; outcome metrics should be interpreted within the documented query set and deployment context |
+
+
 ## Repository Summary
 
 **Project type:** Conversational AI chatbot integration
