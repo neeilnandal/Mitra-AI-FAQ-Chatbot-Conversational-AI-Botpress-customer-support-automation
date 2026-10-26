@@ -237,20 +237,6 @@ Use Botpress Cloud Webchat to deploy a branded FAQ assistant directly on the web
 
 Configure the chatbot, embed it into the web page, test common support queries, and use the assistant as a first-response customer support layer.
 
-## SEO Keywords
-
-Relevant keywords for this project:
-
-* AI FAQ chatbot
-* Botpress chatbot
-* customer self-service chatbot
-* Tier-1 support automation
-* conversational AI
-* support deflection
-* website chatbot
-* customer support automation
-* AI helpdesk assistant
-* FAQ automation
 
 ## Future Improvements
 
